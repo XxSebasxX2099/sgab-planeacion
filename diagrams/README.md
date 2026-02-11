@@ -1,0 +1,1 @@
+Colocar aquí los diagramas (diagrama_contexto.png, diagrama_modulos.png). Puedes generar imágenes con draw.io o dibujarlas y subirlas (Opcional).
